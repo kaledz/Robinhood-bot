@@ -35,16 +35,13 @@ To run the bot locally:
 pip install robin_stocks
 You may also need:
 
-bash
-Copy
-Edit
+
 pip install pandas requests
 ▶️ Usage
 Clone the repo:
 
-bash
-Copy
-Edit
+
+
 git clone https://github.com/kaledz/Robinhood-bot.git
 cd Robinhood-bot
 Set up authentication:
@@ -55,9 +52,7 @@ Store your credentials securely (e.g., .env, vault, or keyring)
 
 Run the bot:
 
-bash
-Copy
-Edit
+
 python sell&buy.py
 📌 Notes
 This bot uses the robin_stocks package (unofficial Robinhood API)
